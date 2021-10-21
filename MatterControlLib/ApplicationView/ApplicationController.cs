@@ -88,6 +88,7 @@ namespace MatterHackers.MatterControl
 		Courgette,
 		Damion,
 		Firefly_Sung,
+		NanumSquareR,
 		Fredoka,
 		Great_Vibes,
 		Liberation_Mono,
@@ -1949,6 +1950,13 @@ namespace MatterHackers.MatterControl
 				AggContext.DefaultFontBold = ApplicationController.GetTypeFace(NamedTypeFace.Firefly_Sung);
 				AggContext.DefaultFontItalic = ApplicationController.GetTypeFace(NamedTypeFace.Firefly_Sung);
 				AggContext.DefaultFontBoldItalic = ApplicationController.GetTypeFace(NamedTypeFace.Firefly_Sung);
+			}
+			else if (twoLetterIsoLanguageName == "ko")
+			{
+				AggContext.DefaultFont = ApplicationController.GetTypeFace(NamedTypeFace.NanumSquareR);
+				AggContext.DefaultFontBold = ApplicationController.GetTypeFace(NamedTypeFace.NanumSquareR);
+				AggContext.DefaultFontItalic = ApplicationController.GetTypeFace(NamedTypeFace.NanumSquareR);
+				AggContext.DefaultFontBoldItalic = ApplicationController.GetTypeFace(NamedTypeFace.NanumSquareR);
 			}
 			else
 			{

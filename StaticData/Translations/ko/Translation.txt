@@ -137,7 +137,7 @@ English:Adjust this to correct differences between expected printing speeds and 
 Translated:예상 인쇄 속도와 실제 인쇄 속도의 차이를 수정하려면이 값을 조정하십시오.
 
 English:Advanced
-Translated:많은
+Translated:고급
 
 English:Advanced Array
 Translated:고급 어레이
@@ -329,7 +329,7 @@ English:Baud Rate
 Translated:전송 속도
 
 English:Bed
-Translated:침대
+Translated:베드
 
 English:Bed Leveling data created at {0}°C versus current {1}°C
 Translated:{0} ° C와 현재 {1} ° C에서 생성 된 베드 레벨링 데이터
@@ -344,16 +344,16 @@ English:Bed Remove Part Temperature
 Translated:베드 부품 온도 제거
 
 English:Bed Shape
-Translated:침대 모양
+Translated:베드 모양
 
 English:Bed Size
-Translated:침대 사이즈
+Translated:베드 사이즈
 
 English:Bed Temperature
 Translated:베드 온도
 
 English:Bed Temperature:
-Translated:침대 온도 :
+Translated:베드 온도 :
 
 English:Before Tool Change
 Translated:공구 교환 전
@@ -521,7 +521,7 @@ English:Clear
 Translated:명확한
 
 English:Clear Bed
-Translated:맑은 침대
+Translated:베드 초기화
 
 English:Clear Cache
 Translated:캐시 지우기
@@ -611,7 +611,7 @@ English:Congratulations! Print Leveling is now configured and enabled.
 Translated:축하합니다! 인쇄 레벨링이 구성되고 활성화되었습니다.
 
 English:Connect
-Translated:잇다
+Translated:연결
 
 English:Connect Bad Edges
 Translated:불량 에지 연결
@@ -650,13 +650,13 @@ English:Connection Timeout
 Translated:접속 시간 초과
 
 English:Continue
-Translated:계속하다
+Translated:계속
 
 English:Continue Printing
 Translated:인쇄 계속
 
 English:Controls
-Translated:통제 수단
+Translated:컨트롤
 
 English:Controls the amount of extrusion
 Translated:압출 량 제어
@@ -740,13 +740,13 @@ English:Create Printer
 Translated:프린터 만들기
 
 English:Create Raft
-Translated:뗏목 만들기
+Translated:Raft 만들기
 
 English:Create Skirt
-Translated:치마 만들기
+Translated:Skirt 만들기
 
 English:Create Support
-Translated:지원 만들기
+Translated:Support 만들기
 
 English:Creates a brim attached to the base of the print. Useful to prevent warping when printing ABS (and other warping-prone plastics) as it helps parts adhere to the bed.
 Translated:인쇄물 밑면에 테두리를 만듭니다. ABS (및 기타 휨 경향이있는 플라스틱)를 인쇄 할 때 부품이 베드에 접착되는 데 도움이되므로 휨을 방지하는 데 유용합니다.
@@ -899,10 +899,10 @@ English:Distance or Loops
 Translated:거리 또는 루프
 
 English:Done
-Translated:끝난
+Translated:닫기
 
 English:Don't remind me again
-Translated:다시 상기시키지 마
+Translated: 다시 열지 않음
 
 English:Don't show this again
 Translated:다시 표시하지 마십시오
@@ -983,7 +983,7 @@ English:Email Address
 Translated:이메일 주소
 
 English:Empty Bed
-Translated:빈 침대
+Translated:빈 베드
 
 English:Emulate Endstops
 Translated:엔드 스톱 에뮬레이션
@@ -1109,7 +1109,7 @@ English:Experimental
 Translated:실험적
 
 English:Export
-Translated:수출
+Translated:내보내기
 
 English:Export Bed Leveling Data
 Translated:베드 레벨링 데이터 내보내기
@@ -1121,7 +1121,7 @@ English:Export EEPROM Settings
 Translated:EEPROM 설정 내보내기
 
 English:Export Error
-Translated:수출 오류
+Translated:내보내기 오류
 
 English:Export File
 Translated:파일 내보내기
@@ -1253,7 +1253,7 @@ English:File Path
 Translated:파일 경로
 
 English:Fill Density
-Translated:충전 밀도
+Translated:레이어 밀도
 
 English:Fill Pattern
 Translated:채우기 패턴
@@ -1523,10 +1523,10 @@ English:Heat Before Homing
 Translated:원점 복귀 전 열
 
 English:Heated Bed
-Translated:온수 침대
+Translated:온수 베드
 
 English:Heating Bed
-Translated:난방 침대
+Translated:난방 베드
 
 English:Heating Nozzle
 Translated:가열 노즐
@@ -1799,7 +1799,7 @@ English:Layer Change G-Code
 Translated:레이어 변경 G 코드
 
 English:Layer Thickness
-Translated:층 두께
+Translated:레이어 두께
 
 English:Layer Top
 Translated:레이어 탑
@@ -1838,7 +1838,7 @@ English:Length on Tool Change
 Translated:공구 교환 길이
 
 English:Let's show you around before you get started.
-Translated:시작하기 전에 보여줄 게요.
+Translated:시작하기 전에 알려드릴 내용이 있습니다. 도움말이 필요하시면 [다음] 버튼을 눌러주세요.
 
 English:Letter
 Translated:편지
@@ -1931,7 +1931,7 @@ English:Loading...
 Translated:불러오는 중 ...
 
 English:Local Library
-Translated:지역 도서관
+Translated:로컬 라이브러리
 
 English:Location
 Translated:위치
@@ -2012,7 +2012,7 @@ English:Materials
 Translated:기재
 
 English:MatterControl
-Translated:MatterControl
+Translated:TangibleControl
 
 English:MatterControl Help
 Translated:MatterControl 도움말
@@ -2432,7 +2432,7 @@ English:Oops! Your session has expired.  Please sign-in again to continue.
 Translated:죄송합니다! 기간이 만료되었습니다. 계속하려면 다시 로그인하십시오.
 
 English:Open
-Translated:열다
+Translated:열기
 
 English:Open File
 Translated:파일 열기
@@ -2669,7 +2669,7 @@ English:Preparing To Print
 Translated:인쇄 준비
 
 English:Press
-Translated:프레스
+Translated:클릭
 
 English:Press [Z-] until there is resistance to moving the paper
 Translated:용지 이동에 저항이있을 때까지 [Z-]를 누릅니다.
@@ -2936,7 +2936,7 @@ English:Rename Item
 Translated:항목 이름 바꾸기
 
 English:Render Leveling Data on the bed
-Translated:침대에서 레벨링 데이터 렌더
+Translated:베드에서 레벨링 데이터
 
 English:Repair
 Translated:수리
@@ -3368,16 +3368,16 @@ English:Skip Connection Setup
 Translated:연결 설정 건너 뛰기
 
 English:Skirt
-Translated:치마
+Translated:Skirt
 
 English:Skirt Height
-Translated:치마 높이
+Translated:Skirt 높이
 
 English:skirts
-Translated:치마
+Translated:Skirt
 
 English:Slice
-Translated:일부분
+Translated:슬라이스!
 
 English:Slice Engine
 Translated:슬라이스 엔진
@@ -3608,28 +3608,28 @@ English:Success!\n\nYour filament should now be unloaded
 Translated:성공!\n\n이제 필라멘트를 언로드해야합니다.
 
 English:Support
-Translated:지원하다
+Translated:서포트
 
 English:Support Expand Distance
-Translated:지원 확장 거리
+Translated:서포트 확장 거리
 
 English:Support Interface Extruder
-Translated:지원 인터페이스 압출기
+Translated:서포트 인터페이스 압출기
 
 English:Support Material
-Translated:지원 자료
+Translated:서포트 자료
 
 English:Support Material Extruder
-Translated:지원 재료 압출기
+Translated:서포트 재료 압출기
 
 English:Support Options
-Translated:지원 옵션
+Translated:서포트 옵션
 
 English:Support Type
-Translated:지원 유형
+Translated:서포트 유형
 
 English:Surfaced Editor
-Translated:표면 편집기
+Translated:서페이스 편집기
 
 English:Switch the settings interface to one intended for SLA printers.
 Translated:설정 인터페이스를 SLA 프린터 용 인터페이스로 전환하십시오.
@@ -3953,7 +3953,7 @@ English:The percentage up from the bottom to start the twist
 Translated:트위스트를 시작하기 위해 아래에서 위로 백분율
 
 English:The position (X and Y coordinates) of the center of the print bed, in millimeters. Normally this is 1/2 the bed size for Cartesian printers and 0, 0 for Delta printers.
-Translated:프린트 베드 중심의 위치 (X 및 Y 좌표) (밀리미터)입니다. 일반적으로 이것은 직교 프린터의 경우 침대 크기의 1/2이고 델타 프린터의 경우 0, 0입니다.
+Translated:프린트 베드 중심의 위치 (X 및 Y 좌표) (밀리미터)입니다. 일반적으로 이것은 직교 프린터의 경우 베드 크기의 1/2이고 델타 프린터의 경우 0, 0입니다.
 
 English:The position to measure the probe offset.
 Translated:프로브 오프셋을 측정 할 위치입니다.
@@ -4685,7 +4685,7 @@ English:You are switching to a different thumbnail rendering mode. If you want, 
 Translated:다른 섬네일 렌더링 모드로 전환하고 있습니다. 원하는 경우 현재 축소판 그림을 제거하고 새 스타일로 다시 만들 수 있습니다. 언제든지 앞뒤로 전환 할 수 있습니다. 새 썸네일이 생성되는 동안 처리 오버 헤드가 발생합니다.\n\n기존 썸네일을 지금 재 구축 하시겠습니까?
 
 English:You can also
-Translated:당신은 또한 수
+Translated:다른 방법으로 시도
 
 English:You can continue to ultra fine calibration, but for most uses this is not necessary.
 Translated:초 미세 보정을 계속할 수 있지만 대부분의 경우에는 필요하지 않습니다.

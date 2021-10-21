@@ -367,6 +367,7 @@ namespace MatterHackers.MatterControl
 		{
 			var treeNode = new HelpArticleTreeNode(container, theme);
 
+			// System.ArgumentNullException: 'Value cannot be null. Parameter name: key'
 			nodesByPath[container.Path] = treeNode;
 
 			foreach (var item in container.Children.OrderBy(i => i.Children.Count == 0).ThenBy(i => i.Name))

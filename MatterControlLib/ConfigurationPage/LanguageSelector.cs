@@ -39,6 +39,7 @@ namespace MatterHackers.MatterControl
 			{
 				["Default"] = "EN",
 				["English"] = "EN",
+				["Korean"] = "KO",
 				["Čeština"] = "CS",
 				["Chinese "] = "ZH",
 				["Dansk"] = "DA",
